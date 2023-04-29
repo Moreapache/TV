@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3
 #EXTINF:-1 ,#0 por M+
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 ,#VAMOS por M+
@@ -10,7 +10,7 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 ,M+ LA LIGA 1080 IPTV
 http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/116.ts
 #EXTINF:-1 ,DAZN LALIGA Santander 1080
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 ,DAZN LALIGA Santander IPTV
 http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/329933.ts
 #EXTINF:-1 ,DAZN 1 1080
